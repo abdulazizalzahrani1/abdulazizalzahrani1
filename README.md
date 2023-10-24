@@ -31,7 +31,7 @@ I'm Abdulaziz, an aspiring software developer passionate about technology and in
 ## Let's Connect
 
 - 📧 Email: [abdulaziz.alzahrani.14@outlook.com]
-- 💼 LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/abdulaziz-alzahrani-3688821b9/)]
+- 💼 LinkedIn: [[Abdulaziz Alzahrani](https://www.linkedin.com/in/abdulaziz-alzahrani-3688821b9/)]
 - 𝕏 Twitter: [https://twitter.com/abdulaziz_zh_]
 
 Looking forward to collaborating and learning together! 😊

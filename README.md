@@ -8,29 +8,25 @@ I'm Abdulaziz, an aspiring software developer passionate about technology and in
 - 💡 I love to explore new technologies and develop software solutions.
 - 🎓 Graduated from **Imam Muhammed Bin Saud Islasmic University** with a degree in **Information Systems** from the college of computer and information sciences.
 
-## Skills
+## Skills 💼
 
-- 💻 Programming Languages: JavaScript, Python, Java
-- 🌐 Web Technologies: Django, ReactJs
-- 📊 Data: Python, NumPy, Pandas
-- 🛠️ Tools: 
-- **Version Control:** GitHub, Git
-- **Programming and Scripting Languages:** JavaScript/TypeScript, Python, Java, SQL
-- **Web Design Technologies:** HTML, CSS, Sass, Tailwind CSS, Bootstrap, Figma
+### Programming Languages 💻
+- JavaScript (ES6+), Python, Java, SQL
+
+### Web Development 🌐
 - **Frameworks:** Django, ReactJs, Angular, Node.js
-- **Integrated Development Environments (IDEs):** Visual Studio Code, PhpStorm, Weka
+- **Technologies:** HTML, CSS, Sass, Tailwind CSS, Bootstrap
+- **Tools:** Figma, Visual Studio Code, PhpStorm
+- **Version Control:** GitHub, Git
+
+### Data Analysis and Visualization 📊
+- **Libraries:** Numpy, Pandas, Matplotlib, Seaborn
+- **Languages:** Python
+- **Tools:** Weka
+
+### Collaboration and Project Management 🤝
 - **Collaboration Tools:** Slack, Jira
-- **Data Analysis and Visualization:** Numpy, Pandas, Matplotlib, Seaborn
-- 
-[comment]: <>(## Projects)
-
-[comment]: <>(Here are some projects I'm proud of:)
-
-[comment]: <>- ([Project Name](Link to project repository) - Short description.)
-[comment]: <>- ([Project Name](Link to project repository) - Short description.)
-[comment]: <>- ([Project Name](Link to project repository) - Short description.)
-
-[comment]: <>(Feel free to explore these projects and provide feedback!)
+- **Methodologies:** Agile, Scrum
 
 ## Let's Connect
 

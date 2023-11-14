@@ -22,7 +22,7 @@ I'm Abdulaziz, an aspiring software developer passionate about technology and in
 ### Data Analysis and Visualization 📊
 - **Libraries:** Numpy, Pandas, Matplotlib, Seaborn
 - **Languages:** Python
-- **Tools:** Weka
+- **Tools:** Weka, jupyter notebook, ArcGIS
 
 ### Collaboration and Project Management 🤝
 - **Collaboration Tools:** Slack, Jira
